@@ -1,20 +1,20 @@
-<img align="left" src="https://raw.githubusercontent.com/thenifemi/PetShop/master/assets/images/PetShop-removebg.png" width="250px" >
+<img align="left" src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/assets/images/PetShop-removebg.png" width="250px" >
 
-[![Header](https://raw.githubusercontent.com/thenifemi/PetShop/master/assets/images/playstoreBanner.png "Header")](https://play.google.com/store/apps/details?id=com.petshop.petshop)
+[![Header](https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/assets/images/playstoreBanner.png "Header")](https://play.google.com/store/apps/details?id=com.petshop.petshop)
 
 <p>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/intro.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/signup.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/login.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/home.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/productDetails.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/cart.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/checkout.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/forgot.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/notifications.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/intro.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/signup.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/login.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/home.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/productDetails.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/cart.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/checkout.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/forgot.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="https://raw.githubusercontent.com/jaredrobinson001/PetShop/master/screenshots/notifications.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
 </p>
 
-## Check out my latest project >> [MOVING PICTURES](https://github.com/thenifemi/movingPictures)
+## Check out my latest project >> [MOVING PICTURES](https://github.com/jaredrobinson001/movingPictures)
 
 Pet Shop is an e-commerce application for Android built with Flutter (iOS to come soon). The goal is to implement the Flutter framework for large scale Android and iOS applications, implementing native platform features like camera accessibility, location reading, biometrics and NFC.
 
@@ -24,7 +24,7 @@ So far, authentication, location reading (implemented through Google Places API)
 
 If the app or certain areas of the app are not functioning properly, please update your code with the latest in the repo.
 Disfunctionality may occur because I recently migrated my database.
-For further enquiries, reach out to me on thenifemi@gmail.com.
+For further enquiries, reach out to me on jaredrobinson001@gmail.com.
 
 ## Design ❄👌
 
@@ -50,11 +50,4 @@ Feature requests, issues, pull requests and questions are welcome.
 ## Bugs 😭🐛
 
 If you encounter any bugs or are facing any issues with the code, please don't hesitate to reach out to me.
-email : thenifemi@gmail.com
-
-## Credits 😎🤓
-
-Wilberforce Uwadiegwu: Mobile Developer [( github )](https://github.com/wilburt)
-
-
-### NIFEMI
+email : jaredrobinson001@gmail.com
